@@ -1,3 +1,0 @@
-[submodule "submodule-repo"]
-	path = submodule-repo
-	url = git@github.com:davidrivera/submodule-repo.git
